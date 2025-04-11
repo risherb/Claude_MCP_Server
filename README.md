@@ -1,4 +1,4 @@
-# Claude MCP (Multi-Context Processing) Server
+# Claude MCP Server
 
 A lightweight bridge enabling Claude AI to search the web in real-time. This Flask-based server integrates Claude's advanced capabilities with DuckDuckGo search, allowing the AI to access current information during conversations.
 
